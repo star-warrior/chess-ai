@@ -1,0 +1,22 @@
+{
+  "name": "chess-ai-jay-mehta",
+  "version": "1.0.0",
+  "description": "a chess ai following freecodecamp's blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/star-warrior/chess-ai.git"
+  },
+  "author": "jay mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/star-warrior/chess-ai/issues"
+  },
+  "homepage": "https://github.com/star-warrior/chess-ai#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
